@@ -1,0 +1,1 @@
+This is vary basic calculator package which is takes two numbers and calculate with add, substract, multiply or divide them.
